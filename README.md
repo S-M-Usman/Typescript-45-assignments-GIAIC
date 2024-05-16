@@ -1,5 +1,3 @@
-![image](![image](https://github.com/S-M-Usman/Typescript-45-assignments-GIAIC/assets/169875249/704d33d7-2271-4076-b67c-0467f873f846)
-)
 
 #  GIAIC - TypeScript GETTING STARTED EXCERCISES
 # Original Repo URL
