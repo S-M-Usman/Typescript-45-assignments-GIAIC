@@ -1,5 +1,6 @@
-![image](https://github.com/Shaikh-Muhammad-Usman-official/TYPESCRIPT-45-ASSSIGNMENTS/assets/160831690/db74fc85-2230-48b5-9b8f-e20d245c325a)
+![image](![image](https://github.com/S-M-Usman/Typescript-45-assignments-GIAIC/assets/169875249/704d33d7-2271-4076-b67c-0467f873f846)
 )
+
 #  GIAIC - TypeScript GETTING STARTED EXCERCISES
 # Original Repo URL
 (https://github.com/panaverse/learn-typescript/blob/master/NODE_PROJECTS/getting-started-exercises.md#getting-started-exercises-with-typescript-and-nodejs)
